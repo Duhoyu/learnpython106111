@@ -2,3 +2,6 @@
 * text=auto
 python is difficult to learn!
 and i don't know how to publish the repository
+format（）内置函数讲一个输出项单独进行格式化，format（输出项[,格式字符串]）,省略可选项时候，函数等价于函数“str(输出项)”的功能
+print（'%+3d,%.2f'%(25,123.567)）
++25,123.57
