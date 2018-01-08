@@ -2,3 +2,5 @@
 * text=auto
 python is difficult to learn!
 and i don't know how to publish the repository
+input ('a string'),remenber to value?
+a = input('a str')
